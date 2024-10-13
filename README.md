@@ -158,8 +158,9 @@ After the recursive solution, we will modify our algorithm to apply advanced tec
 <b>Topological Sort</b> is used to find a linear ordering of elements that have dependencies on each other. For example, if event `B` is dependent on event `A`, `A` comes before `B` in topological ordering.
 
 
-<b>DSA Question Pattern CHeatSheet :</b>
+<b>DSA Coding Question Pattern CHeatSheet :</b>
 
 https://dev.to/arslan_ah/20-essential-coding-patterns-to-ace-your-next-coding-interview-32a3
 https://www.techinterviewhandbook.org/algorithms/array/
+https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed
 
